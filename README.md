@@ -8,7 +8,6 @@ A comprehensive desktop application that boosts developer productivity by combin
 
 ## 📸 Screenshot
 
-*(Add a screenshot of your running application here)*
 <img width="1366" height="768" alt="screenshot" src="https://github.com/user-attachments/assets/da1abc62-bc48-4612-8152-4bc6aecf8a05" />
 
 ## ✨ Features
